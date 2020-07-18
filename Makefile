@@ -14,7 +14,7 @@ PKG_RELEASE:=1
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
 PKG_SOURCE_URL:=http://download.savannah.gnu.org/releases/lzip/$(PKG_NAME)
 PKG_HASH:=6c5c5f8759d1ab7c4c3c53788ea2d9daad04aeddcf338226893f8ff134914d36
-PKG_MAINTAINER:=no bk
+PKG_MAINTAINER:=
 PKG_LICENSE:=GPL-2.0+
 
 include $(INCLUDE_DIR)/package.mk
