@@ -8,12 +8,12 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=lzlib
-PKG_VERSION:=1.13
+PKG_VERSION:=1.14
 PKG_RELEASE:=1
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
 PKG_SOURCE_URL:=http://download.savannah.gnu.org/releases/lzip/$(PKG_NAME)
-PKG_HASH:=a1ab58f3148ba4b2674e938438166042137a9275bed747306641acfddc9ffb80
+PKG_HASH:=5acac8714ed4f306020bae660dddce706e5f8a795863679037da9fe6bf4dcf6f
 PKG_MAINTAINER:=
 PKG_LICENSE:=GPL-2.0-or-later
 
